@@ -1,0 +1,22 @@
+img{
+    width: 40px;
+}
+header{
+    background-color: #e3f2fd;
+    margin-bottom: 30px;
+}
+.breadcrumb{
+    background-color: #e9ecef;
+    padding-left: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.carousel-item img{
+    height: 400px;
+}
+footer{
+    color: #ffff;
+    background-color: #17a2b8;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
